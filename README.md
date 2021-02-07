@@ -1,6 +1,6 @@
 # NoteTheme
 
-This theme is folked from [Matjek theme](https://shawnteoh.github.io/matjek/) which is based on [materializecss](https://materializecss.com/) framework.
+This theme is forked from [Matjek theme](https://shawnteoh.github.io/matjek/) which is based on [materializecss](https://materializecss.com/) framework.
 
 I have modified a lot from Matjek so that we have this theme for **the only purpose of note-taking**. This theme is designed for ones who work much on **Maths and Code** with a lot of useful components.
 
