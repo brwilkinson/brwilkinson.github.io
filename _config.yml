@@ -12,7 +12,7 @@ favicon: "/assets/res/favicon.png" # site's favicon (icon left side of your page
 user: 
   name: "brwilkinson"
   email: ""
-  website: "https://linktr.ee/brwilkinson"
+  website: "linktr.ee/brwilkinson"
   avatar: "/assets/res/user.png"
   github: "dinhanhthi"
 google_tracking_id: ""
