@@ -13,8 +13,9 @@ user:
   name: "brwilkinson"
   email: ""
   website: "linktr.ee/brwilkinson"
+  twitter: twitter.com/brwilkinson
   avatar: "/assets/res/user.png"
-  github: "dinhanhthi"
+  github: "brwilkinson"
 google_tracking_id: ""
 google_site_verification: ""
 disqus_shortname: this-site
